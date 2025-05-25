@@ -29,7 +29,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "guillermori-practica5"
+          project: "guillermori-practica5-98"
           entrypoint: "main.ts"
           root: "."
           
